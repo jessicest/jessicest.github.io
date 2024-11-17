@@ -17,7 +17,7 @@ Package hours can be split between any number of sessions.
 ### Referral program:
 
  * Each referred student will get their first 4 hours at half price.
- * For each person you refer who completes their first 4 hours, **your hourly rate drops by $10 for 6 months!**
+ * For each person you refer who completes their first 4 hours, **your hourly rate drops by $10 for 12 months!**
 
 ### Pairing:
 
